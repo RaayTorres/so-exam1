@@ -2,7 +2,7 @@ Universidad ICESI
 ## Informe Examen 1
 **Nombre:*Ray Torres*  
 **Código:*A00309856*  
-**Url Repositorio**: https://github.com/RaayTorres/so-exam1/edit/master/codigo_estudiante/
+**Url Repositorio**: https://github.com/RaayTorres/so-exam1/codigo_estudiante/
 
 ### Informe
 El informe se debe entregar en un archivo de formato .md en el fork de sus

@@ -45,12 +45,12 @@ repositorios, incluir los archivos solicitados
   
     •	Descarga de los archivos
         pc 1:
-      ![][7]  
+    ![][7] 
         
         
        pc 2:
         
-      ![][8]  
+      ![][8] 
 
 3.	 Cree un contenedor de debian en CentOS7 empleando LXC. Presente el listado de los comandos empleados y capturas de pantalla               relevantes como evidencias del funcionamiento.
   
@@ -58,13 +58,13 @@ repositorios, incluir los archivos solicitados
        •	Contenedor corriendo
             
             
-        ![][9]
+      ![][9]
   
   
   
         •	Lista de comandos utilizados
         
-        ![][10]
+    ![][10]
 
 
 ### Referencias
